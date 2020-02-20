@@ -36,7 +36,7 @@
 |     placeholder     | 占位符，预期值 | <input>中的placeholder属性 |
 |        audio        |     声音的     |          <audio>           |
 |        embed        |     使嵌入     |          <embed>           |
-|                     |                |                            |
+|       mailto        |     寄邮件     |      <a>的mailto属性       |
 |                     |                |                            |
 |                     |                |                            |
 |                     |                |                            |
