@@ -16,7 +16,7 @@
 |    trigger     |      触发      |
 |      hint      |      提示      |
 |     symbol     |     标识符     |
-|      trim      |      修建      |
+|      trim      |      修整      |
 |    trailer     |      尾部      |
 |    Explorer    | 文件资源管理器 |
 |   visibility   |     能见度     |

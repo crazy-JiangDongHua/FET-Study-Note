@@ -37,9 +37,9 @@
 |        audio        |     声音的     |          <audio>           |
 |        embed        |     使嵌入     |          <embed>           |
 |       mailto        |     寄邮件     |      <a>的mailto属性       |
-|                     |                |                            |
-|                     |                |                            |
-|                     |                |                            |
+|       figure        |      图像      |          <figure>          |
+|        mute         |      哑的      |    <video>中的muted属性    |
+|       poster        |   海报，宣传   |    <video>的poster属性     |
 |                     |                |                            |
 |                     |                |                            |
 |                     |                |                            |
